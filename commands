@@ -1,0 +1,4 @@
+ng create new app-element-one
+npm i @angular/elements or npm i @angular/elements@15 [version conflict]
+cd ./src/app/
+ng g c input-output
